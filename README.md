@@ -28,6 +28,5 @@ Currently, looking for developer position in fullstack, backend, or frontend.
 Copyright © 2020 [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github
-.com/kefranabg/readme-md-generator) and then updated and altered by
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator) and then updated and altered by
  [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
