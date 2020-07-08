@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to my Hacker Rank Solutions Repo 👋</h1>
 
-### <a href="http://tenbrink.dev"><img src="./assets/images/seo-and-web.svg" height="40"> Home Page</a>
+### <a href="http://tenbrink.dev"><img src="https://github-badge.vercel.app/api/badges/icons/web" height="40"> Home Page</a>
 
 My portfolio site. 
 
@@ -15,7 +15,7 @@ My portfolio site.
   </p>
   <p>
     <a href="https://www.linkedin.com/in/jeremiahtenbrink/" target="_blank">
-        <img alt="LinkedIn: JeremiahTenbrink" src="./assets/images/linkedInBadge.svg" />
+        <img alt="LinkedIn: JeremiahTenbrink" src="https://github-badge.vercel.app/api/badges/linkedin/@JeremiahTenbrink" height="40"/>
       </a>
 </p>
 
