@@ -1,7 +1,7 @@
 
 <h1 align="center">Welcome to my Hacker Rank Solutions Repo 👋</h1>
 
-### <a href="http://tenbrink.dev"><img align="center" src="https://github-badge.vercel.app/api/badges/icons/web" height="80">Portfolio Site</a>
+<h1 align="center"> <a href="http://tenbrink.dev"><img src="https://github-badge.vercel.app/api/badges/icons/web" height="80">          Portfolio Site</a></h1>
 
 ## Author
 
