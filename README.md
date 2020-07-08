@@ -24,7 +24,7 @@ Currently, looking for developer position in fullstack, backend, or frontend.
 
 
   <a href="https://drive.google.com/file/d/13dwfRXEcEvPOSFiq_GHCyV5nq6pwahVX/view?usp=sharing" target="_blank">
-      <img alt="Resume: Jeremiah Tenbrink" src="./assets/images/JeremiahTenbrinkResume.svg" />
+      <img alt="Resume: Jeremiah Tenbrink" src="https://github-badge.vercel.app/api/badges/resume/JeremiahTenbrink" />
     </a>
 
 Copyright © 2020 [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
