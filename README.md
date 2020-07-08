@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to my Hacker Rank Solutions Repo 👋</h1>
+<h1 align="center">Welcome to my code challenge solutions Repo</h1>
 
 <h1 align="center"> <a href="http://tenbrink.dev"><img src="https://github-badge.vercel.app/api/badges/icons/web" height="80">          Portfolio Site</a></h1>
 
