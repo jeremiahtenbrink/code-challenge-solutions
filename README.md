@@ -1,5 +1,5 @@
 
-<h1 align="center">Welcome to my Hacker Rank Solutions Repo 👋</h1>
+<h1 align="center">Welcome to my code challenge solutions Repo</h1>
 
 <h1 align="center"> <a href="http://tenbrink.dev"><img src="https://github-badge.vercel.app/api/badges/icons/web" height="80">          Portfolio Site</a></h1>
 
@@ -28,6 +28,5 @@ Currently, looking for developer position in fullstack, backend, or frontend.
 Copyright © 2020 [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github
-.com/kefranabg/readme-md-generator) and then updated and altered by
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator) and then updated and altered by
  [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
