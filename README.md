@@ -5,7 +5,7 @@
 
 ## Author
 
-<img src="./assets/images/avatar.svg" height="40"> **Jeremiah Tenbrink**
+<img src="https://github-badge.vercel.app/api/badges/icons/user" height="80"> **Jeremiah Tenbrink**
 <p>
   <a href="https://twitter.com/CO_Comp_Nerd" target="_blank">
     <img alt="Twitter: CO_Comp_Nerd" src="https://img.shields.io/twitter/follow/CO_Comp_Nerd.svg?style=social" />
