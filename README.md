@@ -1,32 +1,32 @@
+<h1 align="center">Welcome to my code challenge solutions repo. 👋</h1>
 
-<h1 align="center">Welcome to my code challenge solutions Repo</h1>
+## Usage
 
-<h1 align="center"> <a href="http://tenbrink.dev"><img src="https://github-badge.vercel.app/api/badges/icons/web" height="80">          Portfolio Site</a></h1>
+Change directory in terminal or command line interface into the code challenge solution folder. 
+
+```sh
+python index.py
+```
 
 ## Author
 
-<img src="https://github-badge.vercel.app/api/badges/icons/user" height="80"> **Jeremiah Tenbrink**
-<p>
-  <a href="https://twitter.com/CO_Comp_Nerd" target="_blank">
-    <img alt="Twitter: CO_Comp_Nerd" src="https://img.shields.io/twitter/follow/CO_Comp_Nerd.svg?style=social" />
-  </a>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/jeremiahtenbrink/" target="_blank">
-        <img alt="LinkedIn: JeremiahTenbrink" src="https://github-badge.vercel.app/api/badges/linkedin/@JeremiahTenbrink" height="40"/>
-      </a>
-</p>
+<a href="https://www.youracclaim.com/badges/f767c1ec-2b50-4901-a250-49b6d9467d37">
+<img src="https://github-badge.vercel.app/api/badges/author/JeremiahTenbrink" alt="Full-Stack Web Development + Technical Interviewing" height="300" />
+</a>
 
-## Resume
-Currently, looking for developer position in fullstack, backend, or frontend. 
+<a href="https://www.linkedin.com/in/jeremiahtenbrink/">
+<img src="https://github-badge.vercel.app/api/badges/portfolio/tenbrink.dev" height="25"/>
+</a>
+<a href="https://www.linkedin.com/in/jeremiahtenbrink/">
+<img src="https://github-badge.vercel.app/api/badges/linkedin/@JeremiahTenbrink" height="25"/>
+</a>
+<a href="https://github.com/jeremiahtenbrink">
+<img src="https://github-badge.vercel.app/api/badges/github/@JeremiahTenbrink" height="25"/>
+</a>
 
+## Show your support
 
-  <a href="https://drive.google.com/file/d/13dwfRXEcEvPOSFiq_GHCyV5nq6pwahVX/view?usp=sharing" target="_blank">
-      <img alt="Resume: Jeremiah Tenbrink" src="https://github-badge.vercel.app/api/badges/resume/JeremiahTenbrink" />
-    </a>
-
-Copyright © 2020 [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
+Give a ⭐️ if this project helped you!
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator) and then updated and altered by
- [Jeremiah Tenbrink](https://github.com/jeremiahtenbrink)
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
