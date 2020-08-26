@@ -1,16 +1,25 @@
-<h1 align="center">Welcome to my code challenge solutions repo. 👋</h1>
+<h1 align="center">Rotate Image</h1>
 
-## Code Challenges
+## Challenge
 
- [First None Repeating Character](./first_none_repeating_character)
+Given an array of arrays. Rotate the array to the right 90deg.
+
+Given 
+
+[
+[1,2,3],
+
+[4,5,6],
+
+[7,8,9]]
+
+Return
  
- [Rotate Image](./rotate_image)
- 
- [Sherlock Valid String](./sherlock_valid_string)
- 
+[[7,4,1],
 
+[8,5,2],
 
-
+[9,6,3]]
 ## Author
 
 <a href="https://www.youracclaim.com/badges/f767c1ec-2b50-4901-a250-49b6d9467d37">
@@ -26,10 +35,3 @@
 <a href="https://github.com/jeremiahtenbrink">
 <img src="https://github-badge.vercel.app/api/badges/github/@JeremiahTenbrink" height="25"/>
 </a>
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
